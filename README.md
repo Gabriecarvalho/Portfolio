@@ -3,7 +3,7 @@
 Este repositório contém o código-fonte do meu portfólio pessoal.
 
 ### 🔗 Acesse o portfólio:
-[Portfolio](https://seulink.com](https://gabriel-carv-portfolio.vercel.app/)) <!-- Substitua pelo link real quando tiver. -->
+[Portfolio](https://gabriel-carv-portfolio.vercel.app/)
 
 ### 🧾 Sobre
 Sou um estudante apaixonado por tecnologia, sempre em busca de evolução e novos aprendizados. Neste portfólio, você encontrará alguns dos meus projetos, habilidades e informações de contato.
